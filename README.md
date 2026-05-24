@@ -59,4 +59,4 @@
 1. Установите **Visual Studio 2022 Community** (или любой .NET-совместимый редактор)
 2. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-логин/Carcharing.git
+git clone https://github.com/Vudach/Carcharing.git
